@@ -20,7 +20,7 @@ import org.apache.commons.io.FileUtils;
 public class Principal {
     
     public static void main(String[] args) throws Exception{
-        File xml = new File("C:/Users/maria/OneDrive/Documentos/NetBeansProjects/ProjectXMLtoJSON/XMLINICIAL.xml");
+        File xml = new File("XMLINICIAL.xml");
         
         String strXML = FileUtils.readFileToString(xml,"UTF-8");
         
