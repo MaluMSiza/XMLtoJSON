@@ -7,16 +7,13 @@ import java.util.Scanner;
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
-/**
- *
- * @author maria
- */
 import org.json.JSONObject;
 import org.json.XML;
 import org.json.JSONException;
 import org.apache.commons.io.FileUtils;
 
  
+
 public class Principal {
     
     public static void main(String[] args) throws Exception{
